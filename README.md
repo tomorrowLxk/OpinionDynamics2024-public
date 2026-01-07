@@ -1,9 +1,13 @@
 # OpinionDynamics2024-public
-This is the public version of the code for the paper "A Cooperative Decision-making Method for CAVs from the Perspective of Opinion Dynamics", which implements an SVM and static single-step motion. The whole process is devided into several parts in this repository.
-The raw and complete project is based on TESSNG, which is a commercial software, and thus the project will not be published.
 
-This research has been accepted and published in TRC, and we would appreciate it if this work could be cited.
+This is the public version of the code for the paper **"A Cooperative Decision-making Method for CAVs from the Perspective of Opinion Dynamics"**. The implementation includes a support vector machine (SVM) module and a static single-step motion planner.
 
+The full workflow is organized into several components within this repository.  
+Note that the original and complete project is built upon **TESSNG**, a commercial traffic simulation platform. Due to licensing restrictions, the full project cannot be made publicly available.
+
+This work has been accepted and published in *Transportation Research Part C: Emerging Technologies (TRC)*. If you find this code or the associated methodology useful in your research, we would greatly appreciate it if you could cite our paper.
+
+```bibtex
 @article{liu2026cooperative,
   title={A cooperative decision-making method for CAVs from the perspective of opinion dynamics},
   author={Liu, Xuekai and Hang, Peng and Wang, Yunpeng and Sun, Jian},
